@@ -19,17 +19,17 @@ export const team405Data={
       },
       {
         id:2,
+        name:"Diksha Bharti",
+        image:"/teams/team405/image.png",
+        department:"Computer Science Department",
+        linkedIn:'https://www.linkedin.com/in/diksha-bharti-055499326/'
+      },
+      {
+        id:3,
         name:"Eshika Kumari",
         image:"/teams/team405/eshika.jpg",
         department:"Computer Science Department",
         linkedIn:'https://www.linkedin.com/in/eshika-kumari/'
-      },
-      {
-        id:3,
-        name:"Diksha Bharti",
-        image:"/teams/team405/diksha.jpeg",
-        department:"Computer Science Department",
-        linkedIn:'https://www.linkedin.com/in/diksha-bharti-055499326/'
       },
       {
         id:4,
@@ -97,15 +97,9 @@ export const team405Data={
         image:"/teams/team405/abhijay.png",
         department:"Electronics and Communication Department",
         linkedIn:'https://www.linkedin.com/in/abhijay-singh-19b527233/'
-      },{
-        id:14,
-        name:"Himanshu Jain",
-        image:"/teams/team405/himanshu.jpeg",
-        department:"Computer Science Department",
-        linkedIn:'https://www.linkedin.com/in/himanshu-jain-53036a327/'
       },
       {
-        id:15,
+        id:14,
         name:"Harshita Bhansali ",
         image:"/teams/team405/harshita.jpg",
         department:"Electronics and Communication Department",
@@ -120,7 +114,7 @@ export const team405Data={
     domain:'Flutter',
     teamLead:{
       name:'Tanay Palekar',
-      image:"/leads/FlutterLead.png",
+      image:"/leads/tanay.png",
       department:'Computer Science Department',
       domain:'Development',
       headLine:"Apps aren’t built, they’re crafted for impact",
@@ -273,51 +267,9 @@ export const team405Data={
       },
       {
         id:2,
-        name:"Leisha Singh",
-        image:"/teams/blockchain/LEISHA_SINGH.jpeg",
+        name:"Abhijeet",
+        image:"/staticAssets/images/userAvatar.png",
         department:"Computer Science Department",
-        linkedIn:'https://www.linkedin.com/in/leisha-singh-82328328a'
-      },
-      {
-        id:3,
-        name:"Aman Mishra",
-        image:"/teams/blockchain/AMAN_MISHRA.jpg",
-        department:"Computer Science Department",
-        linkedIn:'https://www.linkedin.com/in/aman-mishra-837b9a27b'
-      },
-      {
-        id:4,
-        name:"Satyarth Srivastava",
-        image:"/teams/blockchain/SATYARTH_SRIVASTAVA.jpg",
-        department:"Electronics and Communications Department",
-        linkedIn:'https://www.linkedin.com/in/satyarth-srivastava'
-      },
-      {
-        id:5,
-        name:"Seema Kumari",
-        image:"/teams/blockchain/SEEMA_KUMARI.jpg",
-        department:"Electrical Engineering department",
-        linkedIn:'https://www.linkedin.com/in/seemakumari8'
-      },
-      {
-        id:6,
-        name:"Kapil Gupta",
-        image:"/teams/blockchain/KAPIL_GUPTA.jpg",
-        department:"Electrical Engineering department",
-        linkedIn:'#'
-      },
-      {
-        id:7,
-        name:"Manjeet Saini",
-        image:"/teams/blockchain/MANJEET_SAINI.jpg",
-        department:"Electrical Engineering department",
-        linkedIn:'#'
-      },
-      {
-        id:8,
-        name:"Anmol Gupta",
-        image:"/teams/blockchain/ANMOL_GUPTA.jpg",
-        department:"Electrical Engineering department",
         linkedIn:'#'
       }
     ]
@@ -328,7 +280,7 @@ export const team405Data={
     domain:'Design',
     teamLead:{
       name:'Nandini Prasad',
-      image:"/leads/FlutterLead.png",
+      image:"/leads/nandini.jpg",
       department:'Computer Science Department',
       domain:'Development',
       headLine:"Apps aren’t built, they’re crafted for impact",
@@ -379,7 +331,7 @@ export const team405Data={
     domain:'Event',
     teamLead:[{
       name:'Shivendu Kumar',
-      image:"/leads/FlutterLead.png",
+      image:"/leads/shivendu.png",
       department:'Computer Science Department',
       domain:'Development',
       headLine:"Apps aren’t built, they’re crafted for impact",
@@ -387,7 +339,7 @@ export const team405Data={
     },
     {
       name:'Harsh Martin Topno',
-      image:"/leads/FlutterLead.png",
+      image:"/leads/Harsh_M_Topno.jpg",
       department:'Computer Science Department',
       domain:'Development',
       headLine:"Apps aren’t built, they’re crafted for impact",
@@ -411,7 +363,7 @@ export const team405Data={
       {
         id:3,
         name:"Himanshu Jain",
-        image:"/teams/socialmedia/himanshu.jpeg",
+        image:"/teams/socialmedia/himanshu.png",
         department:"Computer Science Department",
         linkedIn:'https://www.linkedin.com/in/himanshu-jain-53036a327/'
       },
@@ -455,7 +407,7 @@ export const team405Data={
       {
         id:2,
         name:"Himanshu Jain",
-        image:"/teams/socialmedia/himanshu.jpeg",
+        image:"/teams/socialmedia/himanshu.png",
         department:"Computer Science Department",
         linkedIn:'https://www.linkedin.com/in/himanshu-jain-53036a327/'
       },
