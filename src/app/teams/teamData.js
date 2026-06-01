@@ -2,147 +2,109 @@ export const team405Data={
     name:'405 Found',
     domain:'Web',
     teamLead:{
-      name:'Sahitya Aryan',
-      image:"/leads/SAHITYA_ARYAN.png",
-      department:'Electronics and communications Department',
+      name:'Sanjeet Raj',
+      image:"/leads/sanjeet.jpg",
+      department:'Computer Science Department',
       domain:'Development',
       headLine:"Coding the web’s heartbeat, one feature at a time",
       linkedIn:'https://www.linkedin.com/in/sahityaaryan/'
     },
-    teamCoLead:{
-      name:'Divyansh Gupta',
-      image:"/leads/DIVYANSH_GUPTA.jpg",
-      department:'Computer Science Department',
-      domain:'Development',
-      headLine:"Designing the web’s ecosystem with creativity and precision",
-      linkedIn:'https://www.linkedin.com/in/divyansh-gupta-7a71b8250/'
-    },
     teamMembers:[
       {
         id:1,
-        name:"Suryansh Verma",
-        image:"/teams/team405/Suryansh_Verma.jpg",
-        department:"Electrical Engineeing Department",
-        linkedIn:'https://www.linkedin.com/in/suryansh-verma-54a88528a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'
+        name:"Nisshchaya Rathi",
+        image:"/teams/team405/nisshchaya.jpeg",
+        department:"Computer Science Department",
+        linkedIn:'https://www.linkedin.com/in/nisshchayarathi/'
       },
       {
         id:2,
-        name:"Aditya Raj",
-        image:"/teams/team405/ADITYARAJ.png",
+        name:"Diksha Bharti",
+        image:"/teams/team405/image.png",
         department:"Computer Science Department",
-        linkedIn:'https://www.linkedin.com/in/adityacyan/'
+        linkedIn:'https://www.linkedin.com/in/diksha-bharti-055499326/'
       },
       {
         id:3,
-        name:"Manya Gupta",
-        image:"/teams/team405/MANYA_GUPTA.png",
+        name:"Eshika Kumari",
+        image:"/teams/team405/eshika.jpg",
         department:"Computer Science Department",
-        linkedIn:'https://www.linkedin.com/in/manya-gupta-967bb228a/'
+        linkedIn:'https://www.linkedin.com/in/eshika-kumari/'
       },
       {
         id:4,
-        name:"Ashutosh Pandey",
-        image:"/teams/team405/ashutosh.jpg",
-        department:"Civil Engineering Department",
-        linkedIn:'https://www.linkedin.com/in/ashutosh-pandey-358120293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'
+        name:"Sujay Kumar Singh",
+        image:"/teams/team405/sujay.jpeg",
+        department:"Computer Science Department",
+        linkedIn:'https://www.linkedin.com/in/sujay-kumar-singh-0a1b3b324'
       },
       {
         id:5,
-        name:"Anshu Kant",
-        image:"/teams/team405/anshu.jpeg",
+        name:"Prateek Kumar Srivastav",
+        image:"/teams/team405/prateek.jpg",
         department:"Computer Science Department",
-        linkedIn:'#'
+        linkedIn:'https://linkedin.com/in/prateek-kumar-srivastav/'
       },
       {
         id:6,
-        name:"Anshu Manoj Mahato",
-        image:"/teams/team405/anshu_mahto.JPG",
+        name:"Ayush Bhardwaj",
+        image:"/teams/team405/ayush.jpeg",
         department:"Computer Science Department",
-        linkedIn:'https://www.linkedin.com/in/anshu-manoj-mahto-0abb342b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'
+        linkedIn:'https://www.linkedin.com/in/ayush-bhardwaj-362271325/'
       },
       {
         id:7,
-        name:"Harshit Verma",
-        image:"/teams/team405/harshit.jpeg",
+        name:"Anantam Aftab",
+        image:"/teams/team405/anantam.jpg",
         department:"Computer Science Department",
-        linkedIn:'https://www.linkedin.com/in/harshit-verma-5ba1a828a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'
+        linkedIn:'https://www.linkedin.com/in/anantam-aftab-22b735374?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'
       },
       {
         id:8,
-        name:"Vasu Choudhari",
-        image:"/teams/team405/vasu.jpeg",
-        department:"Computer Science Department",
-        linkedIn:'https://www.linkedin.com/in/vasu-choudhari?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'
+        name:"Ekansh Satsangi",
+        image:"/teams/team405/ekansh.jpeg",
+        department:"Electronics and Communication Department",
+        linkedIn:'https://in.linkedin.com/in/ekansh-satsangi-154b40350'
       },
       {
         id:9,
-        name:"Sanjeet Raj",
-        image:"/teams/team405/sanjeet.jpg",
-        department:"Computer Science Department",
-        linkedIn:'#'
+        name:"Hans Raj",
+        image:"/teams/team405/hans.jpg",
+        department:"Electronics and Communication Department",
+        linkedIn:'https://www.linkedin.com/in/hans--raj?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'
       },
       {
         id:10,
-        name:"Sania",
-        image:"/teams/team405/saniya.jpeg",
+        name:"Mohnish Pamnani",
+        image:"/teams/team405/mohnish.jpg",
         department:"Computer Science Department",
-        linkedIn:'http://www.linkedin.com/in/saniya-ahmad-4b11a1274'
+        linkedIn:'https://www.linkedin.com/in/mohnish-pamnani-595a81284'
       },{
         id:11,
-        name:"Sandeep Kumar Gond",
-        image:"/teams/team405/sandeep.jpg",
-        department:"Computer Science Department",
-        linkedIn:'http://www.linkedin.com/in/sandeep-kumar-gond-2b6280290'
+        name:"Khushi Kumari",
+        image:"/teams/team405/khushi.jpg",
+        department:"Electronics and Communication Department",
+        linkedIn:'https://www.linkedin.com/in/khushi-kumari-428a20334'
       },{
         id:12,
-        name:"Rahul Jangir",
-        image:"/teams/team405/RAHUL_JANGIR.jpg",
+        name:"Harsh Chandra",
+        image:"/teams/team405/harsh.jpeg",
         department:"Computer Science Department",
-        linkedIn:'https://www.linkedin.com/in/rahul-jangir-0416a928a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'
+        linkedIn:'https://www.linkedin.com/in/harsh-chandra-a4610437a/'
       },{
         id:13,
-        name:"Akshat Kumar",
-        image:"/teams/team405/AKSHAT_KUMAR.jpg",
-        department:"Computer Science Department",
-        linkedIn:'https://www.linkedin.com/in/akshat-kumar-526a7a2aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'
-      },{
+        name:"Abhijay Singh",
+        image:"/teams/team405/abhijay.png",
+        department:"Electronics and Communication Department",
+        linkedIn:'https://www.linkedin.com/in/abhijay-singh-19b527233/'
+      },
+      {
         id:14,
-        name:"Abhijaat krishna",
-        image:"/teams/team405/abhijaat.jpeg",
-        department:"Computer Science Department",
-        linkedIn:'https://www.linkedin.com/in/abhijaat-krishna-98674b29a/'
-      },{
-        id:15,
-        name:"Jatin Avtani",
-        image:"/teams/team405/jatin.jpg",
-        department:"Computer Science Department",
-        linkedIn:'https://www.linkedin.com/in/jatin-avtani-55b9b328a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'
-      },{
-        id:16,
-        name:"Harsh Dwivedi",
-        image:"/teams/team405/HARSH_DWIVEDI.jpg",
-        department:"Electronics and Communications department",
-        linkedIn:'https://www.linkedin.com/in/harsh-dwivedi-4b9bb9289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'
-      },{
-        id:17,
-        name:"Satyarth Srivastava",
-        image:"/teams/team405/SATYARTH_SRIVASTAVA.jpg",
-        department:"Electronics and Communications Department",
-        linkedIn:'https://www.linkedin.com/in/satyarth-srivastava'
-      },{
-        id:18,
-        name:"Anushka Kale",
-        image:"/teams/team405/Anushka_Kale.jpg",
-        department:"Electronics and Communications Department",
-        linkedIn:'https://www.linkedin.com/in/anushka-kale-525595287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'
-      },{
-        id:18,
-        name:"Nikita Pant",
-        image:"/teams/team405/Nikita_Pant.jpg",
-        department:"Electronics and Communications Department",
-        linkedIn:'#'
+        name:"Harshita Bhansali ",
+        image:"/teams/team405/harshita.jpg",
+        department:"Electronics and Communication Department",
+        linkedIn:'https://linkedin.com/in/harshitabhansali'
       }
-
     ]
     
   }
@@ -151,102 +113,56 @@ export const team405Data={
     name:'Nougat',
     domain:'Flutter',
     teamLead:{
-      name:'Devendra Singh',
-      image:"/leads/FlutterLead.png",
+      name:'Tanay Palekar',
+      image:"/leads/tanay.png",
       department:'Computer Science Department',
       domain:'Development',
       headLine:"Apps aren’t built, they’re crafted for impact",
       linkedIn:'https://www.linkedin.com/in/devendra-singh-ba1917257/github.com/dev04sa'
     },
-    teamCoLead:{
-      name:'Piyush Singh',
-      image:"/leads/FlutterCoLead.jpeg",
-      department:'Electronics and communications Department',
-      domain:'Development',
-      headLine:"A great app is a fusion of creativity and code",
-      linkedIn:'https://www.linkedin.com/in/piyuush-singh/'
-    },
     teamMembers:[
       {
         id:1,
-        name:"Rahul Chaudhary",
-        image:"/teams/flutter/RAHUL_CHAUDHARY.jpg",
-        department:"Electronics and communications department",
-        linkedIn:'#'
+        name:"Shreya Mourya",
+        image:"/teams/flutter/shreya.jpg",
+        department:"Computer Science Department",
+        linkedIn:'https://www.linkedin.com/in/shreya-maurya0511'
       },
       {
         id:2,
-        name:"Aditya Pratap Singh",
-        image:"/teams/flutter/ADITYA_SINGH.jpeg",
-        department:"Physics Department",
-        linkedIn:'#'
+        name:"Rudraksha Kumar",
+        image:"/teams/flutter/rudraksha.webp",
+        department:"Mechatronics and Automation Engineering",
+        linkedIn:'https://www.linkedin.com/in/rudraksha-kumar-76702b336/'
       },
       {
         id:3,
-        name:"Aniket Kumar",
-        image:"/teams/flutter/ANIKET_KUMAR.jpg",
-        department:"Electronics and communications department",
-        linkedIn:'https://www.linkedin.com/in/aniket-kumar-6333a628a'
+        name:"Aryan Binani",
+        image:"/teams/flutter/aryan.jpg",
+        department:"Computer Science Department",
+        linkedIn:'https://www.linkedin.com/in/aryan-binani-212a55329/'
       },
       {
         id:4,
-        name:"Gaurav Suman",
-        image:"/teams/flutter/GAURAV_SUMAN.jpg",
-        department:"Electronics and communications department",
-        linkedIn:'#'
+        name:"Supriya Kumari",
+        image:"/teams/flutter/supriya.jpeg",
+        department:"Computer Science Department",
+        linkedIn:'http://www.linkedin.com/in/supriya-nitp'
       },
       {
         id:5,
-        name:"Divija Sharma",
-        image:"/teams/flutter/DIVIJA_SHARMA.jpg",
-        department:"Electrical Engineering department",
-        linkedIn:'https://www.linkedin.com/in/divija-sharma-79922b27b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'
+        name:"Tanishq Kumar Prasad",
+        image:"/teams/flutter/tanishq.jpg",
+        department:"Electronics and Communication Department",
+        linkedIn:'https://www.linkedin.com/in/tanishq-kumar-prasad-315141316/'
       },{
         id:6,
-        name:"Nakul Varshney",
-        image:"/teams/flutter/NAKUL_VARSHNEY.jpg",
+        name:"Ayush Bhardwaj",
+        image:"/teams/flutter/ayush.jpeg",
         department:"Computer Science Department",
-        linkedIn:'#'
-      },{
-        id:7,
-        name:"Ravi Shankar Upadhyay",
-        image:"/teams/flutter/RAVI_UPADHYAY.jpg",
-        department:"Computer Science Department",
-        linkedIn:'https://www.linkedin.com/in/raviupadhyay23?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'
-      },{
-        id:8,
-        name:"Tanay Palekar",
-        image:"/teams/flutter/Tanay_P.jpg",
-        department:"Computer Science Department",
-        linkedIn:'https://www.linkedin.com/in/palekar-tanay-80b0a428b/'
-      },{
-        id:9,
-        name:"Priyanshi Prasad",
-        image:"/teams/flutter/PRIYANSHI_PRASAD.jpg",
-        department:"Electronics and communications department",
-        linkedIn:'https://www.linkedin.com/in/priyanshi-prasad-8ba08b28a/'
-      },{
-        id:10,
-        name:"Trinetra Kumar",
-        image:"/teams/flutter/TRINETRA_KUMAR.jpg",
-        department:"Electronics and communications department",
-        linkedIn:'https://www.linkedin.com/in/trinetra-kumar-b2440b28a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'
+        linkedIn:'https://www.linkedin.com/in/ayush-bhardwaj-362271325/'
       }
     ]
-    
-  }
-
-  export const kotlinTeamData={
-    name:'Nougat',
-    domain:'Kotlin',
-    teamLead:{
-      name:'Rai Chirag Kumar',
-      image:"/leads/CHIRAG_KUMAR.jpg",
-      department:'Computer Science Department',
-      domain:'Development',
-      headLine:"Revolutionizing mobile and backend development with Kotlin power",
-      linkedIn:'https://www.linkedin.com/in/chirag-kumar-rai-bbb009271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'
-    }
     
   }
 
@@ -254,84 +170,78 @@ export const team405Data={
     name:'Gray Interface',
     domain:'AI/ML',
     teamLead:{
-      name:'Shiva Singh Bagari',
-      image:"/leads/SHIVA_SINGH_BAGRI.jpg",
-      department:'MNC',
+      name:'Ashutosh Panda',
+      image:"/leads/Ashutosh_Panda.jpg",
+      department:'Electronics and Communication Department',
       domain:'Development',
       headLine:"Bridging the gap between algorithms and real-world applications",
       linkedIn:'https://www.linkedin.com/in/shiva-singh-bagri-060089174'
     },
+    teamCoLead:{
+      name:'Suryakant Acharya',
+      image:"/leads/Suryakant_Acharya.jpg",
+      department:'Computer Science Department',
+      domain:'Development',
+      headLine:"Designing the web’s ecosystem with creativity and precision",
+      linkedIn:'https://www.linkedin.com/in/divyansh-gupta-7a71b8250/'
+    },
     teamMembers:[
       {
         id:1,
-        name:"Vrinda Gupta",
-        image:"/teams/AI-ML/VRINDA_GUPTA.jpg",
-        department:"Computer Science Department",
-        linkedIn:'https://www.linkedin.com/in/vrinda-gupta-029a47303/'
+        name:"Harish singh bhadauria",
+        image:"/teams/AI-ML/harish.jpeg",
+        department:"Electrical Engineering Department",
+        linkedIn:'http://www.linkedin.com/in/harish-singh-bhadauria-65a087339/'
       },
       {
         id:2,
-        name:"Ankita Saxena",
-        image:"/teams/AI-ML/ANKITA_SAXENA.jpg",
-        department:"Electronics and communications department",
-        linkedIn:'http://linkedin.com/in/ankita-saxena-401b72284/'
+        name:"Nilesh Raj",
+        image:"/teams/AI-ML/nilesh.jpg",
+        department:"Computer Science Department",
+        linkedIn:'https://www.linkedin.com/in/nilesh-raj-033b94319'
       },
       {
         id:3,
-        name:"Shreyansh Gupta",
-        image:"/teams/AI-ML/SHREYANSH_GUPTA.jpg",
-        department:"Electronics and communications department",
-        linkedIn:'https://www.linkedin.com/in/shreyansh-gupta-a9a339290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'
+        name:"Wagishi Jagat",
+        image:"/teams/AI-ML/wagishi.jpg",
+        department:"Electrial Engineering department",
+        linkedIn:'https://www.linkedin.com/in/wagishi-jagat-216498333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'
       },
       {
         id:4,
-        name:"Prisha Garg",
-        image:"/teams/AI-ML/PRISHA_GARG.jpg",
+        name:"Abhay",
+        image:"/staticAssets/images/userAvatar.png",
         department:"MNC",
-        linkedIn:'https://www.linkedin.com/in/prishagarg06'
+        linkedIn:'#'
       },
       {
         id:5,
-        name:"Ashutosh Panda",
-        image:"/teams/AI-ML/ASHUTOSH_PANDA.jpg",
+        name:"Aditya Mishra",
+        image:"/staticAssets/images/userAvatar.png",
         department:"Electronics and communications department",
         linkedIn:'#'
       },
       {
         id:6,
-        name:"Suryakant Acharya",
-        image:"/teams/AI-ML/Suryakant_Acharya.jpg",
+        name:"Krishna Jalan",
+        image:"/staticAssets/images/userAvatar.png",
         department:"Computer Science Department",
-        linkedIn:'www.linkedin.com/in/suryakant-acharya-8b09a628a'
+        linkedIn:'#'
       },
       {
         id:7,
-        name:"Sonu Jhajharia",
-        image:"/teams/AI-ML/sonu_j.jpeg",
+        name:"Shivam",
+        image:"/staticAssets/images/userAvatar.png",
         department:"Computer Science Department",
-        linkedIn:'https://www.linkedin.com/in/sonu-jhajharia-122a39285/'
+        linkedIn:'#'
       },
       {
         id:9,
-        name:"Harsh Martin Topno",
-        image:"/teams/AI-ML/Harsh_M_Topno.jpg",
+        name:"Yaksh Bariya",
+        image:"/staticAssets/images/userAvatar.png",
         department:"Computer Science Department",
-        linkedIn:'https://www.linkedin.com/in/harsh-martin-topno-924756312?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'
-      },{
-        id:9,
-        name:"Sanjeet Raj",
-        image:"/teams/AI-ML/sanjeet.jpg",
-        department:"Computer Science Department",
-        linkedIn:'https://www.linkedin.com/in/sanjeetraj40'
-      },
-      {
-        id:10,
-        name:"Kanishka Rajvansh",
-        image:"/teams/AI-ML/KANISHKA_RAJVANSH.jpg",
-        department:"Electronics and communications department",
-        linkedIn:'https://www.linkedin.com/in/kanishka-rajvansh-073436280'
+        linkedIn:'#'
       }
-     
     ]
     
   }
@@ -340,8 +250,8 @@ export const team405Data={
     name:'CipherSync',
     domain:'blockchain',
     teamLead:{
-      name:'Govind Singh',
-      image:"/leads/GOVIND_SINGH.jpg",
+      name:'Ankur Verma',
+      image:"/leads/ANKUR_VERMA.png",
       department:'Electronics and Communications Department',
       domain:'Development',
       headLine:"Building decentralized solutions for a connected and secure future",
@@ -350,131 +260,171 @@ export const team405Data={
     teamMembers:[
       {
         id:1,
-        name:"Ankur Verma",
-        image:'/teams/blockchain/ANKUR_VERMA.png',
+        name:"Md Aman",
+        image:'/teams/blockchain/mdAman.jpg',
         department:"Computer Science Department",
-        linkedIn:'https://www.linkedin.com/in/ankur-verma-43323b285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'
+        linkedIn:'https://www.linkedin.com/in/md-aman-76000a324/'
       },
       {
         id:2,
-        name:"Leisha Singh",
-        image:"/teams/blockchain/LEISHA_SINGH.jpeg",
+        name:"Abhijeet",
+        image:"/staticAssets/images/userAvatar.png",
         department:"Computer Science Department",
-        linkedIn:'https://www.linkedin.com/in/leisha-singh-82328328a'
-      },
-      {
-        id:3,
-        name:"Aman Mishra",
-        image:"/teams/blockchain/AMAN_MISHRA.jpg",
-        department:"Computer Science Department",
-        linkedIn:'https://www.linkedin.com/in/aman-mishra-837b9a27b'
-      },
-      {
-        id:4,
-        name:"Satyarth Srivastava",
-        image:"/teams/blockchain/SATYARTH_SRIVASTAVA.jpg",
-        department:"Electronics and Communications Department",
-        linkedIn:'https://www.linkedin.com/in/satyarth-srivastava'
-      },
-      {
-        id:5,
-        name:"Seema Kumari",
-        image:"/teams/blockchain/SEEMA_KUMARI.jpg",
-        department:"Electrical Engineering department",
-        linkedIn:'https://www.linkedin.com/in/seemakumari8'
-      },
-      {
-        id:6,
-        name:"Kapil Gupta",
-        image:"/teams/blockchain/KAPIL_GUPTA.jpg",
-        department:"Electrical Engineering department",
-        linkedIn:'#'
-      },
-      {
-        id:7,
-        name:"Manjeet Saini",
-        image:"/teams/blockchain/MANJEET_SAINI.jpg",
-        department:"Electrical Engineering department",
-        linkedIn:'#'
-      },
-      {
-        id:8,
-        name:"Anmol Gupta",
-        image:"/teams/blockchain/ANMOL_GUPTA.jpg",
-        department:"Electrical Engineering department",
         linkedIn:'#'
       }
     ]
-    
   }
 
-  export const DSATeamData={
-    name:'SigSTP',
-    domain:'DSA',
+  export const designTeamData ={
+    name:'Pixelbytes',
+    domain:'Design',
     teamLead:{
-      name:'Bobbala Maheedhar',
-      image:"/leads/Bobbala_Maheedhar.jpg",
+      name:'Nandini Prasad',
+      image:"/leads/nandini.jpg",
       department:'Computer Science Department',
       domain:'Development',
-      headLine:"Cracking complexity through innovative algorithms and robust structure",
-      linkedIn:'https://www.linkedin.com/in/maheedhar-bobbala-9739a1276'
+      headLine:"Apps aren’t built, they’re crafted for impact",
+      linkedIn:'https://www.linkedin.com/in/nandini-prasad-9294a9250/'
     },
     teamMembers:[
       {
         id:1,
-        name:"Anshumaan Gangwar",
-        image:"/teams/DSA/ANSHUMAAN_GANGWAR.jpg",
+        name:"Prachi",
+        image:"/teams/design/prachi.jpeg",
         department:"Computer Science Department",
-        linkedIn:'https://www.linkedin.com/in/anshumaan-gangwar-714755213?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'
+        linkedIn:'https://www.linkedin.com/in/prachi-8096aa358/'
       },
       {
         id:2,
-        name:"Jitendra Srivastava",
-        image:"/teams/DSA/JITENDRA_SRIVASTAVA.png",
-        department:"Computer Science Department",
-        linkedIn:'https://www.linkedin.com/in/jitendra-srivastava-099b0b289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'
+        name:"Harshita Bhansali ",
+        image:"/teams/design/harshita.jpg",
+        department:"Electronics and communication Department",
+        linkedIn:'https://linkedin.com/in/harshitabhansali/'
       },
       {
         id:3,
-        name:"Ayushi Shukla",
-        image:"/teams/DSA/AYUSHI_SHUKLA.jpg",
+        name:"Shristi",
+        image:"/teams/design/shristi.jpeg",
         department:"Computer Science Department",
-        linkedIn:'https://www.linkedin.com/in/ayushi-shukla-55021928b'
+        linkedIn:'http://www.linkedin.com/in/shristi-shristi-21a025327'
       },
       {
         id:4,
-        name:"Avinash Dwivedi",
-        image:"/teams/DSA/AVINASH_DWIVEDI.jpg",
+        name:"Abhay Pratap Singh",
+        image:"/staticAssets/images/userAvatar.png",
         department:"Computer Science Department",
         linkedIn:'#'
       },
       {
         id:5,
-        name:"Karan Nigam",
-        image:"/teams/DSA/KARAN_NIGAM.jpg",
-        department:"Electronics and Communications Department",
-        linkedIn:'https://www.linkedin.com/in/karan-nigam-20b9a028a/'
-      }, {
-        id:6,
-        name:"Divyaprkash Tiwari",
-        image:"/teams/DSA/DIVYAPRAKASH_TIWARI.png",
-        department:"Electronics and Communications Department",
-        linkedIn:'https://www.linkedin.com/in/imdp28?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app'
-      }, {
-        id:7,
-        name:"Utsav Kumar",
-        image:"/teams/DSA/UTSAV_KUMAR.png",
-        department:"Electronics and Communications Department",
+        name:"Yash Ranjan",
+        image:"/staticAssets/images/userAvatar.png",
+        department:"Electrial Engineering Department",
         linkedIn:'#'
-      },
-      {
-        id:8,
-        name:"Prashant Yadav",
-        image:"/teams/DSA/PRASHANT_YADAV.jpg",
-        department:"Computer Science Department",
-        linkedIn:'https://www.linkedin.com/in/prash-nitp/'
       }
     ]
     
   }
 
+  export const eventTeamData ={
+    name:'Events',
+    domain:'Event',
+    teamLead:[{
+      name:'Shivendu Kumar',
+      image:"/leads/shivendu.png",
+      department:'Computer Science Department',
+      domain:'Development',
+      headLine:"Apps aren’t built, they’re crafted for impact",
+      linkedIn:'https://www.linkedin.com/in/devendra-singh-ba1917257/github.com/dev04sa'
+    },
+    {
+      name:'Harsh Martin Topno',
+      image:"/leads/Harsh_M_Topno.jpg",
+      department:'Computer Science Department',
+      domain:'Development',
+      headLine:"Apps aren’t built, they’re crafted for impact",
+      linkedIn:'https://www.linkedin.com/in/nandini-prasad-9294a9250/'
+    }],
+    teamMembers:[
+      {
+        id:1,
+        name:"Nikhil Kumar",
+        image:"/teams/events/nikhil_electrical.jpg",
+        department:"Electrical Engineering Department",
+        linkedIn:'https://www.linkedin.com/in/nikhil-kumar-47103734b/'
+      },
+      {
+        id:2,
+        name:"Ankush Raj",
+        image:"/teams/events/ankush.jpg",
+        department:"Computer Science Department",
+        linkedIn:'https://www.linkedin.com/in/ankush-raj-597045320/'
+      },
+      {
+        id:3,
+        name:"Himanshu Jain",
+        image:"/teams/socialmedia/himanshu.png",
+        department:"Computer Science Department",
+        linkedIn:'https://www.linkedin.com/in/himanshu-jain-53036a327/'
+      },
+      {
+        id:4,
+        name:"Nidhi Agrawal",
+        image:"/teams/events/nidhi.png",
+        department:"Mechatronics and Automation Department",
+        linkedIn:'https://www.linkedin.com/in/nidhi-agrawal-153221388/'
+      },
+      {
+        id:5,
+        name:"Nikhil Kumar",
+        image:"/teams/events/nikhil.png",
+        department:"Computer Science Department",
+        linkedIn:'https://www.linkedin.com/in/nikhil-kumar-7192aa323/'
+      }
+    ]
+    
+  }
+
+  export const socialMediaTeamData ={
+    name:'SocialMedia',
+    domain:'socialMedia',
+    teamLead:{
+      name:'Aditya Raj',
+      image:"/leads/ADITYARAJ.png",
+      department:'Computer Science Department',
+      domain:'Non-Tech',
+      headLine:"Turning creativity into engagement and engagement into community.",
+      linkedIn:'https://www.linkedin.com/in/devendra-singh-ba1917257/github.com/dev04sa'
+    },
+    teamMembers:[
+      {
+        id:1,
+        name:"Ayushi Singh",
+        image:"/teams/socialmedia/ayushi.jpg",
+        department:"Electronics and Communication Department",
+        linkedIn:'https://www.linkedin.com/in/ayushi-singh0724/'
+      },
+      {
+        id:2,
+        name:"Himanshu Jain",
+        image:"/teams/socialmedia/himanshu.png",
+        department:"Computer Science Department",
+        linkedIn:'https://www.linkedin.com/in/himanshu-jain-53036a327/'
+      },
+      {
+        id:3,
+        name:"Harsh Chandra",
+        image:"/teams/socialmedia/harsh.jpeg",
+        department:"Computer Science Department",
+        linkedIn:'https://www.linkedin.com/in/harsh-chandra-a4610437a/'
+      },
+      {
+        id:4,
+        name:"Priya Tiwari",
+        image:"/teams/socialmedia/priya.jpg",
+        department:"Computer Science Department",
+        linkedIn:'https://www.linkedin.com/in/priya-tiwari-14b54b325/'
+      }
+    ]
+    
+  }

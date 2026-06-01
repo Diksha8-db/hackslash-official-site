@@ -2,11 +2,12 @@
 import Image from "next/image";
 import React, { useEffect, useState } from "react";
 import WebTeamImage from "../../../public/staticAssets/images/team405.jpeg";
-import FlutterTeamImage from "../../../public/staticAssets/images/flutter.png";
 import KotlinTeamImage from "../../../public/staticAssets/images/Kotlin.png";
 import AIMLTeamImage from "../../../public/staticAssets/images/Ai-Ml.png";
 import BlockchainTeamImage from "../../../public/staticAssets/images/blockchain.jpeg";
-import DSATeamImage from "../../../public/staticAssets/images/DSA.png";
+import DesignTeamImage from "../../../public/staticAssets/images/designTeamImage.jpg";
+import EventTeamImage from "../../../public/staticAssets/images/eventManagementTeam.jpg";
+import socialMediaTeamImage from "../../../public/staticAssets/images/socialMediaTeamImage.jpg";
 import Ellip from "../../../public/staticAssets/svgs/ellip.svg";
 import { TeamCard } from "@/components/TeamCard";
 import CicleImage from "../../../public/staticAssets/images/Circle.png";
@@ -34,14 +35,8 @@ const Teams = () => {
     {
       teamName: "Nougat",
       team: "Flutter Team",
-      image: FlutterTeamImage,
-      url: "/teams/flutter",
-    },
-    {
-      teamName: "Nougat",
-      team: "Kotlin Team",
       image: KotlinTeamImage,
-      url: "/teams/kotlin",
+      url: "/teams/flutter",
     },
     {
       teamName: "Gray Interface",
@@ -56,11 +51,25 @@ const Teams = () => {
       url: "/teams/blockchain",
     },
     {
-      teamName: "SigSTP",
-      team: "DSA Team",
-      image: DSATeamImage,
-      url: "/teams/dsa",
+      teamName: "PixelByte",
+      team: "Design Team",
+      image: DesignTeamImage,
+      url: "/teams/design",
     },
+    
+    {
+      teamName: "Event and PR Team",
+      team: "Event and PR Team",
+      image: EventTeamImage,
+      url: "/teams/event",
+    },
+    
+    {
+      teamName: "Social Media Team",
+      team: "Social Media Team",
+      image: socialMediaTeamImage,
+      url: "/teams/socialmedia",
+    }
   ];
   // const lessThanXl = window.innerWidth <= 914;
   return (
